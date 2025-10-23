@@ -297,14 +297,15 @@
        flex-wrap: wrap;
    }
 
-   .store-btn {
-       background: #eee;
-       color: #151414;
-       padding: 15px 25px;
-       border-radius: 50px;
-       text-decoration: none;
-       font-weight: 600;
-       transition: transform 0.3s ease;
+
+
+
+   .store-btn img {
+       object-fit: contain;
+       vertical-align: middle;
+       display: inline-flex;
+       align-items: center;
+       gap: 10px;
    }
 
    .store-btn:hover {
