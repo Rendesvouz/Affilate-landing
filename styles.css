@@ -35,7 +35,7 @@
 
    .hero h1 {
        font-size: clamp(32px, 5vw, 64px);
-       line-height: 1.2;
+       line-height: 1;
        margin-bottom: 20px;
    }
 
@@ -320,6 +320,26 @@
    .store-btn:hover {
        transform: translateY(-2px);
    }
+
+   .socials a {
+       display: inline-flex;
+       align-items: center;
+       justify-content: center;
+       width: 40px;
+       height: 40px;
+
+   }
+
+   .socials a:hover {
+       transform: translateY(-3px);
+   }
+
+   .socials a img {
+       width: 20px;
+       height: 20px;
+
+   }
+
 
    /* Responsive adjustments */
    @media (max-width: 768px) {
