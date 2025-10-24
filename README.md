@@ -1,1 +1,2 @@
-rendesvouz.github.io/Affilate-landing
+[rendesvouz.github.io/Affilate-landing
+](https://rendesvouz.github.io/Affilate-landing/)
